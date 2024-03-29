@@ -233,6 +233,7 @@ FW_VERSIONS = {
   },
   CAR.HYUNDAI_TUCSON: {
     (Ecu.fwdRadar, 0x7d0, None): [
+      b'\xf1\x00NX4__               1.01 1.00 99110-N9100         ',
       b'\xf1\x00TL__ FCA F-CUP      1.00 1.01 99110-D3500         ',
       b'\xf1\x00TL__ FCA F-CUP      1.00 1.02 99110-D3510         ',
     ],
